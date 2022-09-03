@@ -1,0 +1,1 @@
+<template>  <button onclick="count++">{{ count }}</button></template><script>export default {  name: "Count-c",  data() {    return {      count: 0    };  }};</script><style scoped></style>
